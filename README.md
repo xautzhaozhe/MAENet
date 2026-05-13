@@ -1,5 +1,7 @@
 # MAENet
-MAENet for hyperspectral anomaly detection 
+This code is for MAENet. **Hyperspectral anomaly detection via memory-augmented autoencoders**
+
+The link is **https://doi.org/10.1049/cit2.12116**
 
 ~~~
 @article{zhao2023hyperspectral,
